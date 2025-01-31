@@ -18,3 +18,6 @@ if (operacion === 'registrar') {
 } else {
     console.log(' Operación no reconocida. Usa "registrar" o "leer".');
 }
+
+//Hola buenas noches profe, si lo siento enviar las actividades todas juntas, Tuve muchos problemas a comenzar el año 
+// que me afectaron tanto psicologicamente y algo mental, tambien la relacion familiar,no la hago mas larga, mi gato bebe que me regalon el 24 de diciembre murio el 6 de enero, mas la separacion de mis padre digamos que no me pude enfocar mucho.
