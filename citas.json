@@ -12,5 +12,26 @@
     "animal": "humano",
     "color": "nose",
     "enfermedad": "dolor de cabeza"
+  },
+  {
+    "nombre": "Jupiter",
+    "edad": "1 mes",
+    "animal": "gato",
+    "color": "amarillo",
+    "enfermedad": "aplastamiento de organos"
+  },
+  {
+    "nombre": "Jupiter",
+    "edad": "1 mes",
+    "animal": "gato",
+    "color": "amarillo",
+    "enfermedad": "aplastamiento de organos"
+  },
+  {
+    "nombre": "Jupiter",
+    "edad": "1 mes",
+    "animal": "gato",
+    "color": "amarillo",
+    "enfermedad": "aplastamiento de organos"
   }
 ]
