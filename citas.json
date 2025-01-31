@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Luna",
+    "edad": "3 años",
+    "animal": "perro",
+    "color": "gris",
+    "enfermedad": "tos"
+  },
+  {
+    "nombre": "otter",
+    "edad": "1mes",
+    "animal": "humano",
+    "color": "nose",
+    "enfermedad": "dolor de cabeza"
+  }
+]
